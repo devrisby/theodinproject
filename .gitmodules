@@ -1,0 +1,3 @@
+[submodule "foundations/recipe"]
+	path = foundations/recipe
+	url = https://github.com/risby-the-odin-project-solutions/foundations-recipe-project
